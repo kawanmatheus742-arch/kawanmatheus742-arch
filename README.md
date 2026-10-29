@@ -1,57 +1,83 @@
 <div align="center">
 
-# KawanMTH
-### Kawan Matheus | Desenvolvimento de aplicativos e produtos digitais
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090E1B,45:142C4B,100:2274C5&height=210&section=header&text=KawanMTH&fontSize=58&fontColor=FFFFFF&fontAlignY=39&desc=APLICATIVOS%20%E2%80%A2%20WEB%20%E2%80%A2%20EXPERI%C3%8ANCIAS%20DIGITAIS&descSize=15&descAlignY=63" width="100%" alt="KawanMTH — aplicativos, web e experiências digitais" />
 
-**Ideias que saem do papel e se transformam em experiências digitais.**
+### Kawan Matheus
+**Criador de aplicativos e soluções digitais**
 
-[![GitHub](https://img.shields.io/badge/GitHub-kawanmatheus742--arch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kawanmatheus742-arch)
+*Criar com propósito. Simplificar a experiência. Evoluir sempre.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kawanmatheus742-arch)
+[![Projetos](https://img.shields.io/badge/Explorar_projetos-1769AA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kawanmatheus742-arch?tab=repositories)
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## ✦ Sobre mim
 
-Sou **Kawan Matheus**, criador de projetos digitais sob a identidade **KawanMTH**. Gosto de transformar ideias em aplicativos, ferramentas e experiências úteis, com atenção à simplicidade, à organização e à qualidade da interface.
+Olá! Sou **Kawan Matheus**, e **KawanMTH** é minha identidade para criar e desenvolver produtos digitais.
 
-Meu foco é aprender, experimentar e evoluir projetos de forma contínua — da ideia inicial aos testes e melhorias.
+Tenho interesse em aplicações **web e mobile**, automação, interfaces intuitivas e soluções que unem **funcionalidade, organização e uma experiência premium**. Gosto de desenvolver de forma iterativa: testar, aprender, aperfeiçoar e seguir construindo.
 
-## 🚀 Áreas de interesse
+> **Minha visão:** tecnologia útil, visual bem pensado e evolução constante.
 
-- **Aplicativos e experiências mobile:** interfaces práticas, intuitivas e bem acabadas.
-- **Produtos web:** soluções acessíveis e fáceis de usar.
-- **Automação e produtividade:** reduzir etapas repetitivas e melhorar fluxos.
-- **Privacidade e segurança:** pensar na proteção dos dados desde o início.
-- **Design de produto:** unir funcionalidade, clareza e boa experiência de uso.
+## ◈ O que me move
 
-## 🛠️ Como trabalho
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```text
-Ideia → Planejamento → Protótipo → Desenvolvimento → Testes → Evolução
-```
+### 📱 Aplicativos
+Experiências mobile práticas, rápidas e intuitivas.
 
-Acredito em construir aos poucos, validar o que funciona e melhorar cada versão.
+### 🌐 Web
+Produtos digitais com foco em clareza, acessibilidade e usabilidade.
 
-## 📂 Projetos
+</td>
+<td width="50%" valign="top">
 
-Este perfil reúne experimentos e projetos em diferentes estágios de desenvolvimento. Cada repositório possui seu próprio contexto, objetivos e evolução.
+### 🎨 Experiência de uso
+Interfaces modernas, consistentes e simples de navegar.
 
-➡️ **[Explorar meus repositórios](https://github.com/kawanmatheus742-arch?tab=repositories)**
+### 🔐 Segurança
+Privacidade, cuidado com dados e boas práticas desde o planejamento.
 
-## 🎯 Próximos passos
+</td>
+</tr>
+</table>
 
-- Documentar melhor cada projeto.
-- Aprimorar a experiência visual e a usabilidade das aplicações.
-- Fortalecer testes, organização do código e segurança.
-- Compartilhar aprendizados e novas versões.
+## ⚡ Meu processo
+
+<div align="center">
+
+`IDEIA` → `PLANEJAMENTO` → `PROTÓTIPO` → `DESENVOLVIMENTO` → `TESTES` → `EVOLUÇÃO`
+
+</div>
+
+## 📁 Projetos e evolução
+
+Estou desenvolvendo projetos digitais em diferentes fases. Alguns repositórios permanecem **privados enquanto estão em construção**; compartilho publicamente apenas o que estiver pronto para divulgação.
+
+**[→ Conhecer meus repositórios no GitHub](https://github.com/kawanmatheus742-arch?tab=repositories)**
+
+## 📊 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kawanmatheus742-arch&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=false" alt="Estatísticas públicas do GitHub de KawanMTH" />
+
+</div>
+
+<sub>Os indicadores dependem de um serviço externo e refletem principalmente a atividade pública disponível.</sub>
 
 ---
 
 <div align="center">
 
-**KawanMTH · Criar. Testar. Evoluir.**
+### KawanMTH
+**CRIAR · TESTAR · EVOLUIR**
 
-<sub>Perfil em construção contínua — novos projetos e melhorias a caminho.</sub>
+<sub>Construindo experiências digitais, uma versão de cada vez.</sub>
 
 </div>
