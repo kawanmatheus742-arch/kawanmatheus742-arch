@@ -24,28 +24,17 @@ Tenho interesse em aplicações **web e mobile**, automação, interfaces intuit
 
 ## ◈ O que me move
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 📱 Aplicativos
 Experiências mobile práticas, rápidas e intuitivas.
 
 ### 🌐 Web
 Produtos digitais com foco em clareza, acessibilidade e usabilidade.
 
-</td>
-<td width="50%" valign="top">
-
 ### 🎨 Experiência de uso
 Interfaces modernas, consistentes e simples de navegar.
 
 ### 🔐 Segurança
 Privacidade, cuidado com dados e boas práticas desde o planejamento.
-
-</td>
-</tr>
-</table>
 
 ## ⚡ Meu processo
 
@@ -63,13 +52,7 @@ Estou desenvolvendo projetos digitais em diferentes fases. Alguns repositórios 
 
 ## 📊 Atividade no GitHub
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kawanmatheus742-arch&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=false" alt="Estatísticas públicas do GitHub de KawanMTH" />
-
-</div>
-
-<sub>Os indicadores dependem de um serviço externo e refletem principalmente a atividade pública disponível.</sub>
+Minha atividade e contribuições públicas podem ser acompanhadas diretamente no [perfil do GitHub](https://github.com/kawanmatheus742-arch). O gráfico de contribuições exibido pelo próprio GitHub é a fonte mais confiável e dispensa imagens de serviços externos.
 
 ---
 
